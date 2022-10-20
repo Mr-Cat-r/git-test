@@ -7,5 +7,6 @@ package com.git;
 public class HelloTest {
     public static void main(String[] args) {
         System.out.println("git的test");
+        System.out.println("git的test02");
     }
 }
