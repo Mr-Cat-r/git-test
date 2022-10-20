@@ -8,5 +8,6 @@ public class HelloTest {
         System.out.println("git的test");
         System.out.println("hox-fix");
         System.out.println("git的test02");
+        System.out.println("push test");
     }
 }
